@@ -1,0 +1,12 @@
+Codigo................: 2
+Nome do cliente.......: MARIA
+Email.................: MARIA.COM
+Telefone de contato...: 545454
+
+
+Codigo................: 1
+Nome do cliente.......: JOSE
+Email.................: JOSE@JOSE
+Telefone de contato...: 7575757
+
+
